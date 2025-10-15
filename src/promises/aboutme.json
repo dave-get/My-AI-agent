@@ -1,0 +1,82 @@
+{
+  "name": "Dawit Getachew",
+  "title": "Full-Stack Developer | Computer Science and Engineering Student",
+  "education": {
+    "university": "Adama Science and Technology University",
+    "degree": "BSc in Computer Science and Engineering",
+    "year": "5th Year"
+  },
+  "summary": "I am a passionate full-stack developer with a strong focus on front-end development and UI/UX design. I specialize in creating modern, responsive, and performance-optimized web applications from design to deployment.",
+  "skills": {
+    "frontend": [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Redux",
+      "Framer Motion"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "TypeScript",
+      "RESTful APIs",
+      "JWT Authentication"
+    ],
+    "ui_ux": [
+      "Figma",
+      "Responsive Design",
+      "Wireframing",
+      "Prototyping",
+      "User-Centered Design"
+    ],
+    "other": [
+      "Git & GitHub",
+      "Vercel Deployment",
+      "Agile Development",
+      "Performance Optimization"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Project HUB",
+      "description": "A digital academic project management platform developed for Adama Science and Technology University, allowing students and advisors to manage academic projects efficiently."
+    },
+    {
+      "name": "ERCS Project",
+      "description": "A system built to enhance coordination and data management for the Ethiopian Red Cross Society."
+    },
+    {
+      "name": "Music School Management System",
+      "description": "A web platform with a landing page and admin dashboard to manage students, teachers, payments, and staff for a music school."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Solo Full-Stack Developer",
+      "project": "Project HUB",
+      "responsibilities": [
+        "Designed and implemented the full UI/UX and frontend using React and Tailwind CSS.",
+        "Developed a secure and scalable backend using Node.js and Express.",
+        "Handled database management and authentication without external frameworks like NestJS or MySQL."
+      ]
+    }
+  ],
+  "focus": [
+    "Performance optimization",
+    "Clean and maintainable code",
+    "Pixel-perfect UI design",
+    "Full development lifecycle"
+  ],
+  "contact": {
+    "email": "dawitgetachew@example.com",
+    "github": "https://github.com/dawitgetachew",
+    "linkedin": "https://linkedin.com/in/dawitgetachew",
+    "portfolio": "https://your-portfolio-link.com"
+  },
+  "location": "Ethiopia"
+}
